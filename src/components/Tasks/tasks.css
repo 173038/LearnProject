@@ -1,0 +1,6 @@
+@media screen and (max-width: 480px) {
+    .pending_tasks {
+        overflow-y: scroll;
+        height: 150px;
+    }
+}
